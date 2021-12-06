@@ -10,3 +10,11 @@ C:\Users\MaximumSettings\Services\moonlightpinverification
 Make sure the .exe is named; MoonlightPinVerification.exe .
 
 All apps (including the control panel) MUST have ADMINISTRATOR rights to run correctly!
+
+Security Note;
+
+The pin verfification system passes the pin through to the webserver in order to submit the pin.  
+
+This could be a security risk if the webserver is NOT blocked by your windows firewall.
+
+Please ensure that only the local host can access the webserver.
