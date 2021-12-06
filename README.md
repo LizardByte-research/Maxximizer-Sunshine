@@ -11,6 +11,7 @@ Make sure the .exe is named; MoonlightPinVerification.exe .
 
 All apps (including the control panel) MUST have ADMINISTRATOR rights to run correctly!
 
+
 Security Note;
 
 The pin verfification system passes the pin through to the webserver in order to submit the pin.  
