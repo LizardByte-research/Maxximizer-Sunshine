@@ -6,6 +6,7 @@ C:\Users\MaximumSettings\Services
 
 The pin verification tool must be placed in;
 C:\Users\MaximumSettings\Services\moonlightpinverification
+
 Make sure the .exe is named; MoonlightPinVerification.exe .
 
 The control panel MUST have ADMINISTRATOR rights to run.
